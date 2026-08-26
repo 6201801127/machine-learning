@@ -8,6 +8,8 @@ data = {
     "Salary": [50000, 60000, 45000, 70000, None],
 }
 
+dt = {"Name": ["Ajay", "Vijay", "Ravi", "Suresh", "Anil"], "Age": [25, 30, 22, None, 35]}
+
 
 df = pd.DataFrame(data)
 # print(df)
